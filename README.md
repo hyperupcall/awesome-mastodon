@@ -1,14 +1,13 @@
-# Awesome Mastodon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)s
+# Awesome Mastodon [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-[<img src="./assets/mastodon-logo.svg" align="right" width="150">](https://joinmastodon.org)
+<img src="./assets/mastodon-logo.svg" align="right" width="150">
 
 > Curated list of Mastodon-related stuff!
 
-**Mastodon is the world's largest free, open-source, decentralized microblogging network**. See the [Official](#official) category to learn more about the network.
+**Mastodon is the world's largest free, open-source, decentralized microblogging network**.
 
 ## Contents
 
-- [Contents](#contents)
 - [Official](#official)
 - [Clients](#clients)
 - [Federated servers](#federated-servers)
@@ -31,9 +30,9 @@
 ## Official
 
 - [Website](https://joinmastodon.org)
-- [GitHub repository](https://github.com/tootsuite/mastodon)
-- [Documentation & official explaination](https://docs.joinmastodon.org/)
-- [API documentation](https://docs.joinmastodon.org/client/intro/)
+- [GitHub](https://github.com/tootsuite/mastodon)
+- [Documentation & Help Center](https://docs.joinmastodon.org/)
+- [API Documentation](https://docs.joinmastodon.org/client/intro/)
 
 ## Clients
 
@@ -56,7 +55,7 @@
 
 ## Federated servers
 
-- [Mastodon](https://joinmastodon.org/) - Most known microblogging platform.
+- [Mastodon](https://joinmastodon.org/servers) - Most known microblogging platform.
 - [Pleroma](https://pleroma.social/) - Lightweight microblogging platform.
 - [GnuSocial](https://gnu.io/social/) - Oldest microblogging platform.
 - [Microblog.pub](https://microblog.pub/) - Single-user lightweight microblogging platform.
@@ -77,7 +76,7 @@
 - [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
 - [Last](https://framagit.org/luc/last) - Aggregate toots on a web page providing Atom feed and an epub (Perl).
 - [Forget](https://forget.codl.fr/about/) - Delete toots after a user defined period of time (Python [source code](https://github.com/codl/forget/)).
-- [Mastodon Toot Bookmarklet](https://rknightuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page ([source code](https://github.com/rknightuk/mastodon-toot-bookmarklet/))
+- [Mastodon Toot Bookmarklet](https://rknightuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page ([source code](https://github.com/rknightuk/mastodon-toot-bookmarklet/)).
 - [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/) - Redirect clicks on remote follow/interaction buttons to your own instance ([source code](https://github.com/rugk/mastodon-simplified-federation)).
 - [Fediverse Explorer](https://fediverse.0qz.fun/) - Trending hashtags and popular toots, regenerated every hour.
 - [Mastodon #nowplaying Toot Bookmarklet](https://nowplaying.resynth1943.net) - Bookmarklet to toot the music you're currently listening to. Works with YouTube. ([source code](https://github.com/resynth1943/mastodon-nowplaying-toot-bookmarklet))
@@ -162,7 +161,7 @@ Please note: most of them are non-official. Also, we do not *recommend* any, the
 ## Libraries
 
 - [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API.
-- [Megalodon](https://github.com/h3poteto/megalodon) - Mastodon API client library for node.js.
+- [Megalodon](https://github.com/h3poteto/megalodon) - Mastodon API client library for Node.js.
 
 ## Hosting
 

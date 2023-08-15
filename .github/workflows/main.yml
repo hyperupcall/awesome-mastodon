@@ -1,0 +1,13 @@
+on:
+  pull_request:
+    branches: ['main']
+    paths:
+      - 'readme.md'
+jobs:
+  lint:
+    runs-on: 'ubuntu-latest'
+    steps:
+      - uses: 'actions/checkout@v3'
+        with:
+          fetch-depth: 0
+      - run: 'npx awesome-lint'

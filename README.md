@@ -1,83 +1,95 @@
-# Awesome Mastodon [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+# Awesome Mastodon [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="./assets/mastodon-logo.svg" align="right" width="150">](https://joinmastodon.org/)
 
-> Curated list of Mastodon-related stuff!
+Mastodon is the world's largest free, open-source, decentralized microblogging network.
 
-**Mastodon is the world's largest free, open-source, decentralized microblogging network**.
+This list is a collection of the best Mastodon resources.
 
 ## Contents
 
 - [Official](#official)
 - [Clients](#clients)
-- [Servers](#servers)
 - [Notable Instances](#notable-instances)
-- [Federated servers](#federated-servers)
 - [Tools](#tools)
-- [Bots](#bots)
-- [Libraries](#libraries)
+- [Servers](#servers)
+- [Other servers](#other-servers)
+- [Explanation](#explanation)
 - [Hosting](#hosting)
+- [Bots](#bots)
 
 ## Official
 
-- [Website](https://joinmastodon.org)
-- [GitHub](https://github.com/tootsuite/mastodon)
+- [GitHub](https://github.com/tootsuite/mastodon/)
 - [Documentation & Help Center](https://docs.joinmastodon.org/)
 - [API Documentation](https://docs.joinmastodon.org/client/intro/)
 
 ## Clients
 
-- [Official Client](https://github.com/mastodon/mastodon-android) - Official Android client.
-- [Megalodon](https://sk22.github.io/megalodon/) - Fork of the official Android client.
-- [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky) - Android client.
-- [Tooty](https://github.com/n1k0/tooty) - Experimental multi-account Mastodon Web client (Elm).
-- [toot](https://github.com/ihabunek/toot) - Mastodon CLI client (Python).
-- [madonctl](https://github.com/McKael/madonctl) - Mastodon CLI client (Go).
-- [Fedilab](https://codeberg.org/tom79/Fedilab) - Android client.
-- [Brutaldon](https://git.carcosa.net/jmcbray/brutaldon) - Brutaldon is a brutalist, Web 1.0 web interface for Mastodon.
-- [Whalebird](https://whalebird.social/en/desktop/contents) - Electron-based Mastodon client.
+- [Client lists](https://joinmastodon.org/apps/) - Official list of Mastodon clients.
+- [Elk](https://github.com/elk-zone/elk/) - Nimble Mastodon web client.
+- [Brutaldon](https://gitlab.com/brutaldon/brutaldon/) - A brutalist, web 1.0 client Mastodon/Pleroma.
 - [Planiverse](https://git.mulligrubs.me/planiverse/) - Minimalist, no-JS Web client for Mastodon.
+- [Official Client](https://github.com/mastodon/mastodon-android/) - Official Android client.
+- [Megalodon](https://sk22.github.io/megalodon/) - Fork of the official Android client.
+- [Fedilab](https://codeberg.org/tom79/Fedilab/) - Fully-featured Android client.
+- [Tusky](https://github.com/tuskyapp/Tusky/) - Intuitive Android client.
 - [Toot!](https://apps.apple.com/us/app/toot/id1229021451) - Mastodon client for iOS.
-- [Sengi](https://nicolasconstant.github.io/sengi/) - Desktop oriented webapp for Mastodon and Pleroma, focused on multi-accounts usages.
+- [SwiftUI](https://github.com/Dimillian/IceCubesApp) - Mastodon client for iOS using SwiftUI.
+- [Whalebird](https://whalebird.social/en/desktop/contents) - Electron-based Mastodon client.
+- [toot](https://github.com/ihabunek/toot) - TUI/CLI Mastodon client using Python.
+
+## Notable Instances
+
+- [mastodon.social](https://mastodon.social/about/) - The largest server with over 333k active users and 1.5m registered users.
+- [EU Server](https://social.network.europa.eu/about/) - The official server for EU institutions.
+- [Vivaldi Social](https://social.vivaldi.net/about/) - Mastodon social hosted by Vivaldi.
+- [Mozilla Social](https://mozilla.social/about/) - Mastodon social hosted by Mozilla.
+- [Bots in Space](https://botsin.space/about/) - Mastodon server made specifically for bot accounts.
+
+## Tools
+
+- [Official Server List](https://joinmastodon.org/servers) - Official List of Mastodon servers.
+- [Official Client Library List](https://docs.joinmastodon.org/client/libraries/) - Official list of Mastodon client libraries.
+- [Mastodon Servers](https://mastodonservers.net/) - List of mastodon instances.
+- [Mastodon instances](https://instances.social/list/) - List of Mastodon instances.
+- [FediDB](https://fedidb.org/network/) - Fediverse network statistics.
+- [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
+- [Fediverse Graph Visualization](https://www.comeetie.fr/galerie/mapstodon/) - Graph visualization of all the Fediverse.
+- [Mastodon Toot Bookmarklet](https://rknightuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page ([source code](https://github.com/rknightuk/mastodon-toot-bookmarklet/)).
+- [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/) - Redirect clicks on remote follow/interaction buttons to your own instance ([source code](https://github.com/rugk/mastodon-simplified-federation)).
+- [Mastodon #nowplaying Toot Bookmarklet](https://nowplaying.resynth1943.net) - Bookmarklet to toot the music you're currently listening to. Works with YouTube. ([source code](https://github.com/resynth1943/mastodon-nowplaying-toot-bookmarklet))
 
 ## Servers
 
 - [Glitch Edition](https://glitch-soc.github.io/docs/)
-- [Hometown](https://github.com/hometown-fork/hometown)
-- [ecko](https://github.com/magicstone-dev/ecko)
+- [Hometown](https://github.com/hometown-fork/hometown/)
+- [ecko](https://github.com/magicstone-dev/ecko/)
 
-## Notable Instances
+## Other servers
 
-- [mastodon.social](https://mastodon.social/about) - The largest server with over 333k active users and 1.5m registered users.
-- [social.network.europa.eu](https://social.network.europa.eu/about) - The official server for EU institutions provided by the European Data Protection Supervisor.
-- [botsin.space](https://botsin.space/about) - .
-- [](https://social.vivaldi.net) - .
-- [](mozilla.social )
-
-## Federated servers
-
-- [Mastodon](https://joinmastodon.org/servers) - Most known microblogging platform.
 - [Pleroma](https://pleroma.social/) - Lightweight microblogging platform.
-- [GnuSocial](https://gnusocial.rocks/) - Oldest microblogging platform.
+- [GNU social](https://gnusocial.rocks/) - Oldest microblogging platform.
 - [Microblog.pub](https://microblog.pub/) - Single-user lightweight microblogging platform.
-- [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - Blog/social networks platform with file, contacts and events sharing.
+- [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project/) - Blog/social networks platform with file, contacts and events sharing.
 - [Friendica](https://friendi.ca/) - Social network platform.
 - [Peertube](https://joinpeertube.org/) - Video sharing platform.
 - [FunkWhale](https://funkwhale.audio/) - Audio sharing platform.
 - [Plume](https://joinplu.me/) - Blogging platform.
 - [WriteFreely](https://writefreely.org/) - Blogging platform.
 - [PixelFed](https://pixelfed.org/) - Photograph sharing platform.
+- [Misskey Hub](https://misskey-hub.net/en/) - Interplanetary microblogging platform.
+- [Lemmy](https://join-lemmy.org/) - Link aggregation platform.
 
-## Tools
+## Explanation
 
-- [Servers](https://joinmastodon.org/servers) - List of mastodon servers
-- [Mastodon Servers](https://mastodonservers.net/) - List of mastodon instances.
-- [Mastodon instances](https://instances.social/list) - List of Mastodon instances.
-- [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
-- [Mastodon Toot Bookmarklet](https://rknightuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page ([source code](https://github.com/rknightuk/mastodon-toot-bookmarklet/)).
-- [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/) - Redirect clicks on remote follow/interaction buttons to your own instance ([source code](https://github.com/rugk/mastodon-simplified-federation)).
-- [Fediverse Explorer](https://fediverse.0qz.fun/) - Trending hashtags and popular toots, regenerated every hour.
-- [Mastodon #nowplaying Toot Bookmarklet](https://nowplaying.resynth1943.net) - Bookmarklet to toot the music you're currently listening to. Works with YouTube. ([source code](https://github.com/resynth1943/mastodon-nowplaying-toot-bookmarklet))
+- [What is Mastodon? (Official Video)](https://www.youtube.com/watch?v=IPSbNdBmWKE) - What is Mastodon? (Official Video).
+
+## Hosting
+
+- [Masto.host](https://masto.host) - Fully managed Mastodon hosting.
+- [toot.io](https://toot.io/mastodon_hosting.html) - Managed Mastodon Hosting, used by ACM, Microsoft Dynamics, etc.
+- [Cloudplane](https://cloudplane.org) - Fully manged hosting for open-source apps.
 
 ## Bots
 
@@ -96,14 +108,3 @@
 - [@ethereum@framapiaf.org](https://framapiaf.org/@ethereum) - News about the Ethereum Cryptocurrency (marketcap, community, rise/drop alerts).
 - [@monero@framapiaf.org](https://framapiaf.org/@monero) - News about the Monero Cryptocurrency (marketcap, community, rise/drop alerts).
 - [@launchradar@mastodon.cloud](https://mastodon.cloud/@launchradar) - News about space flight, astronomy and astrophysics.
-
-## Libraries
-
-- [Mastodon.py](https://github.com/halcy/Mastodon.py) - Python wrapper for the Mastodon API.
-- [Megalodon](https://github.com/h3poteto/megalodon) - Mastodon API client library for Node.js.
-
-## Hosting
-
-- [Masto.host](https://masto.host) - Fully managed Mastodon hosting.
-- [toot.io](https://toot.io/mastodon_hosting.html) - Managed Mastodon Hosting, used by .
-- [Cloudplane](https://cloudplane.org) - Fully manged hosting for open-source apps.

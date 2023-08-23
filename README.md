@@ -14,7 +14,7 @@ This list is a collection of the best Mastodon resources.
 - [Tools](#tools)
 - [Servers](#servers)
 - [Other servers](#other-servers)
-- [Explanation](#explanation)
+- [Guides](#guides)
 - [Hosting](#hosting)
 - [Bots](#bots)
 
@@ -81,7 +81,7 @@ This list is a collection of the best Mastodon resources.
 - [Misskey Hub](https://misskey-hub.net/en/) - Interplanetary microblogging platform.
 - [Lemmy](https://join-lemmy.org/) - Link aggregation platform.
 
-## Explanation
+## Guides
 
 - [What is Mastodon? (Official Video)](https://www.youtube.com/watch?v=IPSbNdBmWKE) - What is Mastodon? (Official Video).
 
@@ -94,17 +94,12 @@ This list is a collection of the best Mastodon resources.
 ## Bots
 
 - [feed2toot](https://gitlab.com/chaica/feed2toot) - Automatically parses RSS feeds, identifies new posts and posts them on Mastodon (Python).
-- [usercount](https://github.com/josefkenny/usercount) - Bot which posts user statistics to Mastodon (Python).
+- [aerialbot](https://github.com/doersino/aerialbot) - Respond with geotagged aerial imagery of a random location in the world.
+- [rust-trending](https://github.com/pbzweihander/rust-trending) - Post trending Rust repositories on Mastodon (inspired by TrendingGithub).
 - [autofollow](https://github.com/gled-rs/mastodon-autofollow) - Autofollow bot for Mastodon (Python).
-- [hnbot](https://github.com/raymestalez/mastodon-hnbot) - Posts the Hacker News stories with 100+ points (Python).
 - [translator](https://christopher.su/projects/translator/) - Translate any toot into the desired language using `@translator@toot.works [langcode]`.
 - [@TrendingBot@mastodon.social](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
 - [Remindr](https://gitlab.com/chaica/remindr) - Automatically send reminders to both Mastodon and Twitter from a list of resources (Python).
-- [News Bot](https://botsin.space/@newsbot) - mirrors Twitter accounts on Mastodon (ClojureScript), source available on [GitHub](https://github.com/yogthos/mastodon-bot).
-- [Welcome Bot](https://github.com/indyhall/mastodon-welcome-bot) - Automatically send a welcome DM to new users (Python).
-- [@fsf@status.fsf.org](https://status.fsf.org/fsf) - FSF Free Software Foundation.
-- [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Hacker News.
-- [@btc@framapiaf.org](https://framapiaf.org/@btc) - News about the Bitcoin Cryptocurrency (marketcap, community, rise/drop alerts).
-- [@ethereum@framapiaf.org](https://framapiaf.org/@ethereum) - News about the Ethereum Cryptocurrency (marketcap, community, rise/drop alerts).
-- [@monero@framapiaf.org](https://framapiaf.org/@monero) - News about the Monero Cryptocurrency (marketcap, community, rise/drop alerts).
+- [News Bot](https://botsin.space/@newsbot) - Mirrors Twitter accounts on Mastodon (ClojureScript), source available on [GitHub](https://github.com/yogthos/mastodon-bot).
+- [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Post Hacker News posts with over 100 upvotes.
 - [@launchradar@mastodon.cloud](https://mastodon.cloud/@launchradar) - News about space flight, astronomy and astrophysics.

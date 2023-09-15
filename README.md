@@ -45,6 +45,8 @@ This list is a collection of the best Mastodon resources.
 - [EU Server](https://social.network.europa.eu/about/) - The official server for EU institutions.
 - [Vivaldi Social](https://social.vivaldi.net/about/) - Mastodon social hosted by Vivaldi.
 - [Mozilla Social](https://mozilla.social/about/) - Mastodon social hosted by Mozilla.
+- [Journa.host](https://journa.host/@info/) - Mastodon server for journalists.
+- [Newsie](https://newsie.social/about/) - Another Mastodon server for journalists.
 - [Bots in Space](https://botsin.space/about/) - Mastodon server made specifically for bot accounts.
 
 ## Tools
@@ -55,6 +57,9 @@ This list is a collection of the best Mastodon resources.
 - [Mastodon instances](https://instances.social/list/) - List of Mastodon instances.
 - [FediDB](https://fedidb.org/network/) - Fediverse network statistics.
 - [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
+- [Academics On Mastodon](https://github.com/nathanlesage/academics-on-mastodon/) - Markdown list of academics on Mastodon, by discipline/group/area.
+- [Spreadsheet of Popular accounts](https://docs.google.com/spreadsheets/d/1cpUKkoT1MUn8_xM4usiERn-IdEuh0hXfBrwbbThwGiI/edit#gid=1111869705/) - Google spreadsheet of the most popular Mastodon accounts of the Fediverse.
+- [Spreadsheet of Journalist accounts](https://docs.google.com/spreadsheets/d/13No4yxY-oFrN8PigC2jBWXreFCHWwVRTftwP6HcREtA/edit#gid=1320898902/) - Google spreadsheet of various journalists of the Fediverse.
 - [Fediverse Graph Visualization](https://www.comeetie.fr/galerie/mapstodon/) - Graph visualization of all the Fediverse.
 - [Mastodon Toot Bookmarklet](https://rknightuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page ([source code](https://github.com/rknightuk/mastodon-toot-bookmarklet/)).
 - [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/) - Redirect clicks on remote follow/interaction buttons to your own instance ([source code](https://github.com/rugk/mastodon-simplified-federation)).

@@ -1,5 +1,5 @@
 # shellcheck shell=bash
 
 task.lint() {
-    pnpx awesome-lint
+	pnpx awesome-lint
 }

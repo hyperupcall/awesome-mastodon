@@ -10,7 +10,7 @@ This list is a collection of the best Mastodon resources.
 
 - [Official](#official)
 - [Notable Instances](#notable-instances)
-- [Observability](#observability)
+- [Observability / Discoverability](#observability--discoverability)
 - [People](#people)
 - [Tools](#tools)
 - [Desktop Clients](#desktop-clients)
@@ -38,7 +38,7 @@ This list is a collection of the best Mastodon resources.
 - [Newsie](https://newsie.social/about/) - Another Mastodon server for journalists.
 - [Bots in Space](https://botsin.space/about/) - Mastodon server for bot accounts.
 
-## Observability
+## Observability / Discoverability
 
 - [Official Server List](https://joinmastodon.org/servers) - Official List of Mastodon servers.
 - [Official Client Library List](https://docs.joinmastodon.org/client/libraries/) - Official list of Mastodon client libraries.
@@ -48,6 +48,8 @@ This list is a collection of the best Mastodon resources.
 - [FediDB](https://fedidb.org/network/) - Fediverse network statistics.
 - [FediBuzz](https://fedi.buzz/) - Observe trends across the Fediverse.
 - [Fediverse Graph Visualization](https://www.comeetie.fr/galerie/mapstodon/) - Graph visualization of all the Fediverse.
+- [MastoInstance.Info](https://mastoinstance.info/) - View instance metadata and explore the federation graph.
+- [fediverse.party](https://fediverse.party/) - Detailed information about the most popular Fediverse projects and protocols.
 
 ## People
 
@@ -58,25 +60,31 @@ This list is a collection of the best Mastodon resources.
 ## Tools
 
 - [Toot Scheduler](https://scheduler.mastodon.tools/) - Schedule toots to "toot" later.
-- [Mastodon Toot Bookmarklet](https://rknightuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page ([source code](https://github.com/rknightuk/mastodon-toot-bookmarklet/)).
-- [Mastodon - Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/) - Redirect clicks on remote follow/interaction buttons to your own instance ([source code](https://github.com/rugk/mastodon-simplified-federation)).
-- [Mastodon #nowplaying Toot Bookmarklet](https://nowplaying.resynth1943.net) - Bookmarklet to toot the music you're currently listening to. Works with YouTube. ([source code](https://github.com/resynth1943/mastodon-nowplaying-toot-bookmarklet))
+- [Mastodon List Manager](https://www.mastodonlistmanager.org/main/) - Create, manager, filter, and search lists of your selected Mastodon users.
+- [Mastodon Toot Bookmarklet](https://rknightuk.github.io/mastodon-toot-bookmarklet/) - Bookmarklet to toot the current page.
+- [Mastodon - Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/) - Redirect clicks on remote follow/interaction buttons to your own instance.
+- [Mastodon Link](https://github.com/masrly/mastodon-link/) - Adds Mastodon icon links by profile to make following people on other instances easier.
+- [Mastodon Redirector](https://github.com/bramus/mastodon-redirector/) - Adds a button to view profiles from other instances on your profile page.
+- [mastotool](https://github.com/muesli/mastotool/) - Collection of command-line tools for working with Mastodon accounts.
 
 ## Desktop Clients
 
 - [Client lists](https://joinmastodon.org/apps/) - Official list of Mastodon clients.
 - [Elk](https://github.com/elk-zone/elk/) - Nimble Mastodon web client.
 - [Brutaldon](https://gitlab.com/brutaldon/brutaldon/) - A brutalist, web 1.0 client Mastodon/Pleroma.
+- [phanpy](https://github.com/cheeaun/phanpy) - A minimalistic, but opinionated, Mastodon web client.
 - [Planiverse](https://git.mulligrubs.me/planiverse/) - Minimalist, no-JS Web client for Mastodon.
 - [Official Client](https://github.com/mastodon/mastodon-android/) - Official Android client.
-- [Whalebird](https://whalebird.social/en/desktop/contents) - Electron-based Mastodon client.
-- [toot](https://github.com/ihabunek/toot) - TUI/CLI Mastodon client using Python.
+- [Whalebird](https://whalebird.social/en/desktop/contents/) - Electron-based Mastodon client.
+- [toot](https://github.com/ihabunek/toot/) - TUI/CLI Mastodon client using Python.
+- [Tokodon](https://apps.kde.org/tokodon/) - Mastodon client made by KDE.
 
 ## Mobile Clients
 
 - [Megalodon](https://sk22.github.io/megalodon/) - Fork of the official Android client.
 - [Fedilab](https://codeberg.org/tom79/Fedilab/) - Fully-featured Android client.
 - [Tusky](https://github.com/tuskyapp/Tusky/) - Intuitive Android client.
+- [Ivory](https://apps.apple.com/us/app/ivory-for-mastodon-by-tapbots/id6444602274) - Mastodon client for iOS, by the creators of Tweetbot.
 - [Toot!](https://apps.apple.com/us/app/toot/id1229021451) - Mastodon client for iOS.
 - [SwiftUI](https://github.com/Dimillian/IceCubesApp) - Mastodon client for iOS using SwiftUI.
 

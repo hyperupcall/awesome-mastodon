@@ -6,7 +6,7 @@ Mastodon is the world's largest free, open-source, decentralized microblogging n
 
 This list is a collection of the best Mastodon resources.
 
-## Contents
+## Contents  <!-- omit from toc -->
 
 - [Official](#official)
 - [Instances](#instances)

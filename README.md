@@ -66,6 +66,7 @@ This list is a collection of the best Mastodon resources.
 - [mastotool](https://github.com/muesli/mastotool/) - Collection of command-line tools for working with Mastodon accounts.
 - [Mastodon Widgets](https://github.com/splitbrain/mastodon-widget) - JavaScript Web Components to embed a Mastodon profile, timeline, follow and share button into any website. Provides an auto-completing instance selector.
 - [StreetPass](https://streetpass.social/) - Browser extension for Firefox/Chrome/Safari to discover links to Mastodon profiles as you browse the web.
+- [BulkPublish](https://www.bulkpublish.com/) - Social media scheduling platform with Mastodon support, REST API, Python/Node.js SDKs, and MCP server for AI-assisted publishing.
 
 ## Desktop Clients
 

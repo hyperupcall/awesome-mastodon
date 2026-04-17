@@ -141,3 +141,4 @@ This list is a collection of the best Mastodon resources.
 - [News Bot](https://botsin.space/@newsbot) - Mirrors Twitter accounts on Mastodon (ClojureScript), source available on [GitHub](https://github.com/yogthos/mastodon-bot).
 - [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Post Hacker News posts with over 100 upvotes.
 - [@launchradar@mastodon.cloud](https://mastodon.cloud/@launchradar) - News about space flight, astronomy and astrophysics.
+- [ShopSavvy](https://github.com/shopsavvy/mastodon-shopsavvy-bot) - Posts deals and responds to price check mentions on the fediverse (TypeScript).
